@@ -17,7 +17,7 @@
     </header>
 
     <nav>
-        <a href="trangchu.html">Trang chủ</a>
+        <a href="index.html">Trang chủ</a>
         <a href="thanhvien.html" target="noidung">Thành viên</a>
         <a href="hoatdong.html" target="noidung">Hoạt động</a>
         <a href="lienhe.html" target="noidung" style="float:right">Liên hệ</a>
